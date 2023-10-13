@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "spliso75")(type "KiCad")(uri "${KIPRJMOD}/spliso75.kicad_sym")(options "")(descr ""))
+)
